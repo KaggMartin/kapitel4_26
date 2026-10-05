@@ -1,0 +1,15 @@
+/workspaces/programmering1-csharp-template/bin/Debug/net10.0/programmering1-csharp-template
+/workspaces/programmering1-csharp-template/bin/Debug/net10.0/programmering1-csharp-template.deps.json
+/workspaces/programmering1-csharp-template/bin/Debug/net10.0/programmering1-csharp-template.runtimeconfig.json
+/workspaces/programmering1-csharp-template/bin/Debug/net10.0/programmering1-csharp-template.dll
+/workspaces/programmering1-csharp-template/bin/Debug/net10.0/programmering1-csharp-template.pdb
+/workspaces/programmering1-csharp-template/obj/Debug/net10.0/programmering1-csharp-template.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/programmering1-csharp-template/obj/Debug/net10.0/programmering1-csharp-template.AssemblyInfoInputs.cache
+/workspaces/programmering1-csharp-template/obj/Debug/net10.0/programmering1-csharp-template.AssemblyInfo.cs
+/workspaces/programmering1-csharp-template/obj/Debug/net10.0/programmering1-csharp-template.csproj.CoreCompileInputs.cache
+/workspaces/programmering1-csharp-template/obj/Debug/net10.0/programmering1-csharp-template.sourcelink.json
+/workspaces/programmering1-csharp-template/obj/Debug/net10.0/programmering1-csharp-template.dll
+/workspaces/programmering1-csharp-template/obj/Debug/net10.0/refint/programmering1-csharp-template.dll
+/workspaces/programmering1-csharp-template/obj/Debug/net10.0/programmering1-csharp-template.pdb
+/workspaces/programmering1-csharp-template/obj/Debug/net10.0/programmering1-csharp-template.genruntimeconfig.cache
+/workspaces/programmering1-csharp-template/obj/Debug/net10.0/ref/programmering1-csharp-template.dll
