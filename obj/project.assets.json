@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/programmering1-csharp-template/programmering1-csharp-template.csproj",
+      "projectUniqueName": "/workspaces/kapitel4_26/programmering1-csharp-template.csproj",
       "projectName": "programmering1-csharp-template",
-      "projectPath": "/workspaces/programmering1-csharp-template/programmering1-csharp-template.csproj",
+      "projectPath": "/workspaces/kapitel4_26/programmering1-csharp-template.csproj",
       "packagesPath": "/home/vscode/.nuget/packages/",
-      "outputPath": "/workspaces/programmering1-csharp-template/obj/",
+      "outputPath": "/workspaces/kapitel4_26/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/vscode/.nuget/NuGet/NuGet.Config"
