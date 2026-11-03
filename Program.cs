@@ -1,8 +1,30 @@
 ﻿using System.Security.Cryptography;
 
-Random slumpare = new Random();     // Skapar en slumptalsgenerator. Görs bara EN gång.
+//Random slumpare = new Random();     // Skapar en slumptalsgenerator. Görs bara EN gång.
 Console.Clear();
 
+// Fråga användaren efter starttal...
+Console.WriteLine("Skriv ett starttal:");
+int tal = int.Parse(Console.ReadLine());
+
+for(int i=tal; i>=0; i--)
+{
+    Console.Write(i);
+    if(i == tal/2)
+    {
+        Console.Write("halvvägs");
+    }
+    Console.WriteLine();
+}
+Console.WriteLine("PANG");
+
+
+
+
+
+
+
+/*
 int pengar = 1000;
 while(pengar > 0)
 {
@@ -94,4 +116,4 @@ while(tarning != 6)
     tarning = slumpare.Next(1, 7);
     Console.WriteLine($"Du kastade en {tarning}:a.");
 }
-
+*/
